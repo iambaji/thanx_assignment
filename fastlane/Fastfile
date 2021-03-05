@@ -1,0 +1,20 @@
+setup_travis
+fastlane_version '2.53.1'
+
+
+
+platform :ios do
+   # iOS Lanes
+end
+
+platform :android do
+  # Android Lanes
+lane :build do
+  gradle(task: 'clean', project_dir: 'android/')
+  gradle(task: 'assemble', build_type: 'Debug', project_dir: 'android/')
+end
+
+
+
+end
+

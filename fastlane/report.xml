@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="fastlane.lanes">
+    
+    
+    
+      
+      <testcase classname="fastlane.lanes" name="0: setup_travis" time="0.001086">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="1: Verifying fastlane version" time="0.000532">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="2: clean" time="18.666791">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="3: assembleDebug" time="59.742133">
+        
+      </testcase>
+    
+  </testsuite>
+</testsuites>
