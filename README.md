@@ -9,6 +9,9 @@ in this repository to install fastlane.
 4. to integrate with travis CI, create a new repository in github and connect the same repository to travis-ci portal.
 5. change the git remote in local repo and push it to the newly created github repo. it will trigger the build in travis ci portal.
 
+## Travis CI link
+https://travis-ci.com/github/iambaji/thanx_assignment
+
 ## All the necessary files are included in the project repository itself.
 
 
